@@ -3,6 +3,7 @@ package arrays;
 import java.util.HashMap;
 import java.util.Map;
 
+//Leetcode
 public class AllSubArray {
 
   public static void main(String[] args) {
